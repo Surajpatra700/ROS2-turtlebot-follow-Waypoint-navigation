@@ -6,10 +6,10 @@ The Turtlebot will read the ArUCo Marker and retrieve the parameters from the pa
 The above image is the Environment of the Project
 
 Navigation of Turtlebot when the Aruco Marker Id is 0.
-https://github.com/AbhinavB7/Turtlebot-Navigation-using-FollowWaypoint-Navigation-in-ROS2/assets/87815926/95a83597-ff13-4a8e-b1bd-ec1e342f33d2
+https://youtu.be/WBGw_0Hi6ys
 
 Navigation of Turtlebot when the Aruco Marker Id is 1.
-https://github.com/AbhinavB7/Turtlebot-Navigation-using-FollowWaypoint-Navigation-in-ROS2/assets/87815926/2260130e-f062-4f40-b8ca-5e2ffbb02857
+https://youtu.be/BzgxHs97Ugw
 
 
 We create a ROS Package where we:
