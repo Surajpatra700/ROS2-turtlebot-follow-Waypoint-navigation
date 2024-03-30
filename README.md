@@ -1,4 +1,4 @@
-# Turtlebot-Navigation-using-FollowWaypoint-Navigation-in-ROS2
+# ROS2-Turtlebot-Navigation-using-FollowWaypoint-Navigation
 
 The Turtlebot will read the ArUCo Marker and retrieve the parameters from the params.yaml file, the robot will navigate through the position of each part in the order given in the yaml file.
 
